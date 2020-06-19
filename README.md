@@ -1,2 +1,2 @@
 # smart-methods-training
-All project files related to smart methods training
+All my project files  wich is related to smart methods training
